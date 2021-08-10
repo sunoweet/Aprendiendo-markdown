@@ -66,7 +66,7 @@ Para entenderlo: Markdown intercambiará los símbolos anteriores por la etiquet
 
 El lenguaje markdown es muy sencillo, pero requiere que pongas atención en la forma en que escribes la sintaxis y el orden que llevas en tu texto, así como su formato.
 
-## Negritas y cursivas
+## Negritas, cursivas y texto tachado
 
 Con markdown pueden crearse los estilos de letra cursiva y negrita mediante dos formas: con el uso de asteriscos y el uso de guiones bajos.
 
@@ -75,6 +75,8 @@ Si rodeas una palabra o frase con uno de estos símbolos, le darás formato de c
 **Esto es un texto en negritas, con dos asteriscos** 
 
 La combinación de ambos elementos genera que ***puedas aplicar a un texto el formato de negritas y cursiva*** 
+
+Tachar texto dentro de un archivo puede ser un recurso utilizado para fines prácticos, por ejemplo, corregir una frase haciendo explícita una diferencia, tachar cambios pendientes, o simplemente con fines estéticos, hacer esto requiere solamente que antes del texto o palabra a tachar se escriba el siguiente símbolo dos veces (~), recordando cerrar la instrucción con el mismo símbolo al final, dos veces, como se muestra a continuación: ~~este es un texto tachado~~
 
 Importante recomendación: el uso de asteriscos se recomienda sobre el uso de guiones bajos, pues dichos guiones pueden entrar en conflicto con la interpretación del formato, resultando en a) nada y b) un bonito guion en pantalla.
 
