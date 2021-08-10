@@ -136,7 +136,7 @@ Ejemplo: El estudiante desvelado comenzó a aprender Python con una línea de ho
 
 Como se ha visto, markdown es muy peculiar al momento de utilizar e interpretar símbolos para otorgar formato al texto, lo cual representa un problema si lo que deseamos es utilizar dichos símbolos en nuestros textos.
 
-La manera sencilla y directa de anular la intepretación de markdown es añadir un slash inverso (\) antes de todo el texto que comenzarás a escribir y que contendrá símbolos o caracteres específicos.
+La manera sencilla y directa de anular la intepretación de markdown es añadir un slash inverso (\\) antes de todo el texto que comenzarás a escribir y que contendrá símbolos o caracteres específicos.
 
 Texto con markdown
 
